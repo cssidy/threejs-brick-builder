@@ -1,9 +1,16 @@
-# three.js
+# Instructions
+
+### three.js
+```
 npm install --save three
+```
 
-# vite
+### vite
+```
 npm install --save-dev vite
+```
 
-# from terminal
-
+### from terminal run
+```
 npx vite
+```
